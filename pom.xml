@@ -19,7 +19,7 @@
     <dependency>
         <groupId>org.eclipse.birt</groupId>
         <artifactId>org.eclipse.birt.report.viewer</artifactId>
-        <version>2.2.0-20070705</version>
+        <version>2.2.0-20061201</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
